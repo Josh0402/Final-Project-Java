@@ -1,3 +1,4 @@
+//Folder where I kept all files but can be changed to your own, just save the files in a separate folder if needed.
 package com.example.demo;
 // From UML I changed in the savings class: totalPay to Transfer as this would allow me to combine the two and let the user change how much is saved or spent, then shows total output of both.
 import java.util.Scanner;
